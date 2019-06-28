@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WidgetScmDataAccess", "WidgetScmDataAccess\WidgetScmDataAccess.csproj", "{3BAF33F1-1AEC-439E-8D26-E51B74D5CB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteScmTest", "SqliteScmTest\SqliteScmTest.csproj", "{861D94CF-5A0E-471E-A3DE-6FDC0340B49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BAF33F1-1AEC-439E-8D26-E51B74D5CB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAF33F1-1AEC-439E-8D26-E51B74D5CB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAF33F1-1AEC-439E-8D26-E51B74D5CB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAF33F1-1AEC-439E-8D26-E51B74D5CB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861D94CF-5A0E-471E-A3DE-6FDC0340B49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861D94CF-5A0E-471E-A3DE-6FDC0340B49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861D94CF-5A0E-471E-A3DE-6FDC0340B49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861D94CF-5A0E-471E-A3DE-6FDC0340B49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
